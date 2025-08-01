@@ -1,7 +1,7 @@
 ![Visitor Badge](https://komarev.com/ghpvc/?username=ammadanees&color=blue&style=flat)
 
 
-# Hi, I'm Ammad Anees 👋
+# Hi, I'm Muhammad Ammad Anees 👋
 
 💻 IT Specialist | AWS Certified | Cloud & AI Enthusiast | Software Engineer
 
@@ -28,7 +28,7 @@
 ---
 
 ## 📫 Connect with me:
-- LinkedIn: linkedin.com/in/muhammad-ammad-anees-1b4691213
+- LinkedIn: www.linkedin.com/in/muhammad-ammad-anees-1b4691213
 - Email: ammad.anees99@email.com
 
 - ### 📊 GitHub Stats
@@ -36,7 +36,6 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ammadanees&layout=compact&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ammadanees&layout=compact&theme=dark)
 
 
 
