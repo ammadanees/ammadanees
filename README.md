@@ -36,6 +36,7 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ammadanees&layout=compact&theme=dark)
 
-![GitHub Streak](https://readme-streak-stats.demolab.com/?user=ammadanees&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ammadanees&layout=compact&theme=dark)
+
 
 
