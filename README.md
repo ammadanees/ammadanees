@@ -3,11 +3,11 @@
 
 # Hi, I'm Muhammad Ammad Anees 👋
 
-💻 IT Specialist | AWS Certified | Cloud & AI Enthusiast | Software Engineer
+IT Specialist | AWS Certified | Cloud & AI Enthusiast | Software Engineer
 
 ---
 
-## 🚀 My Skill Set
+##  My Skill Set
 
 <!-- Or use icons like this -->
 <p align="left">
