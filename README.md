@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Ammad Anees 👋
 
-<!--
-**ammadanees/ammadanees** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 IT Specialist | AWS Certified | Cloud & AI Enthusiast | Software Engineer
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 My Skill Set
+![Skills](https://your-image-url.com/skills.png)
+
+<!-- Or use icons like this -->
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+</p>
+
+---
+
+## 📫 Connect with me:
+- LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
+- Email: your@email.com
