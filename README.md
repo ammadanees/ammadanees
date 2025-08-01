@@ -1,3 +1,6 @@
+![Visitor Badge](https://komarev.com/ghpvc/?username=ammadanees&color=blue&style=flat)
+
+
 # Hi, I'm Ammad Anees 👋
 
 💻 IT Specialist | AWS Certified | Cloud & AI Enthusiast | Software Engineer
