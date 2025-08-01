@@ -25,5 +25,5 @@
 ---
 
 ## 📫 Connect with me:
-- LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/muhammad-ammad-anees-1b4691213)
+- LinkedIn: [linkedin.com/in/muhammad-ammad-anees-1b4691213]
 - Email: ammad.anees99@email.com
