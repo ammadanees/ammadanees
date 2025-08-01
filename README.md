@@ -27,3 +27,11 @@
 ## 📫 Connect with me:
 - LinkedIn: linkedin.com/in/muhammad-ammad-anees-1b4691213
 - Email: ammad.anees99@email.com
+
+- ### 📊 GitHub Stats
+![Ammad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ammadanees&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ammadanees&layout=compact&theme=dark)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=ammadanees&theme=dark)
+
