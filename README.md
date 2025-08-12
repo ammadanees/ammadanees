@@ -28,7 +28,7 @@ IT Specialist | AWS Certified | Cloud & AI Enthusiast | Software Engineer
 ---
 
 ## 📫 Connect with me:
-- LinkedIn: www.linkedin.com/in/muhammad-ammad-anees-1b4691213
+- LinkedIn: www.linkedin.com/in/ammadanees
 - Email: ammad.anees99@email.com
 - Kaggle: https://www.kaggle.com/ammadanees
 
