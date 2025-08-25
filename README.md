@@ -32,10 +32,11 @@ IT Specialist | AWS Certified | Cloud & AI Enthusiast | Software Engineer
 - Email: ammad.anees99@email.com
 - Kaggle: https://www.kaggle.com/ammadanees
 
+<!--
 - ### 📊 GitHub Stats
 ![Ammad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ammadanees&show_icons=true&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ammadanees&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ammadanees&layout=compact&theme=dark) -->
 
 
 
